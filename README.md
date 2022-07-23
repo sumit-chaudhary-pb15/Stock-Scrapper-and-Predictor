@@ -6,7 +6,7 @@ In this project, an easy to use finanical data scrapper is developed for extract
 2. historical period: 
   - data, open, high, low, close, adj close, volume and name.
 
-Currently, working on developing AI/ML model for predicting stock close prices. This model will be avilable shortly. 
+Currently, working on developing AI/ML model for predicting stock close prices. This model will be available shortly. 
 
 # Steps for reproducing in your machine 
 1. Create a virtual enviroment (Optional but would highly recommend as this comes under best practices)
