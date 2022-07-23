@@ -5,6 +5,7 @@ In this project, an easy to use finanical data scrapper is developed for extract
   - Stocks of interest can be provided in "my_stocks" variable in get_current_stock_prices.py. As "my_stocks" is list, multiple entries can be made.
 2. historical period: 
   - data, open, high, low, close, adj close, volume and name.
+
 Currently, working on developing AI/ML model for predicting stock close prices. This model will be avilable shortly. 
 
 # Steps for reproducing in your machine 
